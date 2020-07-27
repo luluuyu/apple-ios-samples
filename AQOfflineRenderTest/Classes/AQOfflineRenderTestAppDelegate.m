@@ -54,8 +54,8 @@
 - (void)applicationDidFinishLaunching:(UIApplication *)application {    
 
     // Override point for customization after application launch
-    [window addSubview:[navigationController view]];
-    [window makeKeyAndVisible];
+//    [window addSubview:[navigationController view]];
+//    [window makeKeyAndVisible];
 }
 
 - (void)dealloc {
